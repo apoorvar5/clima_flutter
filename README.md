@@ -27,7 +27,7 @@ Welcome to Clima, a user-friendly weather application that provides real-time we
 1. **Clone the Repository:**
    - Clone this repository to your local machine using the following command:
      ```bash
-     git clone https://github.com/mahekdesai/clima-flutter.git
+     git clone https://github.com/apoorvar5/clima_flutter.git
      ```
 
 2. **API Key Setup:**
